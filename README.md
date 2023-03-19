@@ -1,4 +1,6 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 change in local repo
-new-feature-main
+
+new-feature-conflict
+>>>>>>> conflict
